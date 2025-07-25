@@ -70,6 +70,8 @@ The app is built entirely in Python and connects the frontend prompt input with 
 
 ## 📊 Model Evaluation: Pre vs. Post Fine-Tuning
 
+<img width="646" height="345" alt="image" src="https://github.com/user-attachments/assets/993dc526-3b11-4e09-aaa4-57392cd01dd7" />
+
 | **Metric**                           | **Before Fine-Tuning** | **After Fine-Tuning** | **Change** | **Remarks**                                                         |
 | ------------------------------------ | ---------------------- | --------------------- | ---------- | ------------------------------------------------------------------- |
 | **CLIP Score**                       | 23.55                  | 24.76                 | +1.21      | Indicates **better alignment** between prompts and generated images |
@@ -79,11 +81,9 @@ The app is built entirely in Python and connects the frontend prompt input with 
 
 ---
 
-## 📸 Sample Results
+## 📸 Sample Result
 
 Post fine-tuning, the model produces visually enhanced Naruto-style images. Below are examples showcasing improvements in both character fidelity and alignment with text prompts:
-
-<img width="646" height="345" alt="image" src="https://github.com/user-attachments/assets/993dc526-3b11-4e09-aaa4-57392cd01dd7" />
 
 <img width="656" height="368" alt="image" src="https://github.com/user-attachments/assets/b774fdcd-552b-47f0-b0b5-120653b6b1d6" />
 
